@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.smv-dropdown {
+    @apply w-full;
+}
+
+.smv-button {
+    @apply rounded-full w-full;
+}
+
+.smv-button-trigger {
+    @apply bg-blue-500 justify-center;
+}
+
+.smv-dropdown-list {
+    @apply top-auto bottom-full md:top-full md:bottom-auto md:left-0 md:right-auto;
+}
+
+.smv-dropdown-list-active {
+    @apply transform -translate-y-3 md:translate-y-3 bg-blue-500;
+}
