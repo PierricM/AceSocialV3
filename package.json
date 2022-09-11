@@ -3,7 +3,7 @@
   "main": "src/server.js",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://pierricm.github.io/AceSocialV3",
+  "homepage": "https://acesosial.xyz",
   "scripts": {
     "serve": "vue-cli-service serve",
     "serve:devnet": "vue-cli-service serve --mode devnet",
@@ -13,7 +13,7 @@
     "build:mainnet": "vue-cli-service build --mode mainnet",
     "lint": "vue-cli-service lint",
     "start": "node src/main.js",
-    "deploy": "npm run build && gh-pages -b master -d build"
+    "deploy": "npm run build && gh-pages -d build"
   },
   "dependencies": {
     "@babel/core": "^7.12.16",
