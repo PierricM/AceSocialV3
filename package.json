@@ -13,7 +13,7 @@
     "build:mainnet": "vue-cli-service build --mode mainnet",
     "lint": "vue-cli-service lint",
     "start": "node src/main.js",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "npm run build && gh-pages -b master -d build"
   },
   "dependencies": {
     "@babel/core": "^7.12.16",
