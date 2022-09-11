@@ -25,7 +25,7 @@ devServer: {
         }
     },
   publicPath: process.env.NODE_ENV === 'production'
-      ? '/AceSocialV3/'
+      ? '/'
       : '/'
   }
 
