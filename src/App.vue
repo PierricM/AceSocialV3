@@ -22,7 +22,7 @@ initWorkspace()
         <!-- Sidebar. -->
         <the-sidebar class="py-4 md:py-8 md:pl-4 md:pr-8 fixed w-20 md:w-64"></the-sidebar>
       <!--  <the-donation-box class="absolute bottom-5 left-5"></the-donation-box> -->
-        <a target="_blank" href="https://trade.dexlab.space/#/market/5rc3qjJTh8y5ZsES3eMyTDpxtzk1ncvS6rrfp7Vg3w1x" class="absolute top-2 right-5 text-white px-4 py-2 rounded-full font-semibold bg-orange-600">Buy $ACES</a>
+        <a target="_blank" href="https://trade.dexlab.space/#/market/3yxS5cH6NW5mQX945ZdLuHHB6MDDY6LxbEhExyC1JSDg" class="absolute top-2 right-5 text-white px-4 py-2 rounded-full font-semibold bg-orange-600">Buy $ACES</a>
         <!-- Main -->
 
 
